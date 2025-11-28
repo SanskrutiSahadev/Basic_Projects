@@ -21,7 +21,7 @@ project-folder/
 
 ---
 
-## 🚀 Features
+## Features
 - Clean and simple user interface  
 - Handles user input through Flask  
 - Dynamic output on a separate results page  
@@ -54,28 +54,11 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🧠
-How It Works
+## How It Works
 1. User enters **name, age, and hobby** in the form.  
 2. Flask receives the submitted form data.  
 3. `generate_output()` builds a customized introduction message.  
 4. The result is displayed on `result.html`.  
-
----
-
-## 🎨 Adding a Background Image
-Place your image in the **static** folder (example: `bg.jpg`).
-
-Add this to `style.css`:
-
-```css
-body {
-    background-image: url("/static/bg.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-```
 
 ---
 
