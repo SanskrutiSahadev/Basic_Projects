@@ -78,11 +78,3 @@ This project helps beginners understand:
 - Organizing static files  
 - Building a simple interactive web application  
 
----
-
-Feel free to ask if you want:
-✔ screenshots added  
-✔ badges (Python, Flask, MIT License, etc.)  
-✔ live deployment instructions for Render, Railway, or PythonAnywhere  
-✔ a more stylish README with emojis and sections  
-der the MIT License.
